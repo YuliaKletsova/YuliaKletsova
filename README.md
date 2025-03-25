@@ -2,17 +2,17 @@
 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR1b2g3N2J0eHFrb3Bld3RzajUzYmVmamVkbmZ2cmhhamxiZG45YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVW8bqnzFmKHoFb3XL/giphy.gif" height="268">
 
-:computer: <em>Software Enginner at <a href="https://www.lightspeedhq.com/">Lightspeed</a></em>
+:computer: <em>Software Enginner at <a href="https://www.datadoghq.com">Datadog</a></em>
 
 ```json
 {
   "pronouns": "she",
-  "code": "[Typescript, Javascript, HTML, CSS, Python]",
+  "code": "[Typescript, Javascript, HTML, CSS]",
   "tools": "[React, Redux, Next, React-Query, Storybook, Styled-Components, Docker]",
   "architecture": "['design system pattern', 'feature-sliced-design']",
   "workExpirience": "4 years",
   "aboutMe": {
-      "age": "24",
+      "age": "25",
       "graduated": "true",
       "hobbies": "['Coding', 'Korean language', 'Drums']"
   },
